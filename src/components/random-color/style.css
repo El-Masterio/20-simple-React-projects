@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.container .container-btns {
+  position: absolute;
+  top: 10px;
+}
+.container .container-btns button {
+  padding: 5px 10px;
+  border: 5px solid #000;
+  margin: 5px;
+  background-color: #755d28;
+  color: #fff;
+}
+.color__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #eeeeee;
+
+  height: 50%;
+}
+
+.color__content h1 {
+  background-color: lightgray;
+  width: auto;
+  border: 15px solid #000;
+  padding: 50px;
+  margin: 20px;
+  font-size: 4rem;
+}

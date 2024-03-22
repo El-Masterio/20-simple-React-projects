@@ -1,0 +1,13 @@
+.windowResize__parent {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.windowResize__container {
+  border: 5px solid rgba(219, 134, 22, 0.333);
+  background-color: #454157;
+  color: #fff;
+  padding: 20px;
+}
