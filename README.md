@@ -1,3 +1,8 @@
+# Live Preview Link
+
+(https://el-masterio.github.io/20-simple-React-projects)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
